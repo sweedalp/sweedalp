@@ -1,102 +1,111 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Sweedal Pinto</h1>
+<h3 align="center">Junior Developer · AI/ML · Full Stack · Based in India</h3>
 
-```
-█████╗ ██╗    ██╗    ██████╗ ██╗   ██╗██╗██╗     ██████╗ ███████╗██████╗
-██╔══██╗██║    ██║    ██╔══██╗██║   ██║██║██║     ██╔══██╗██╔════╝██╔══██╗
-███████║██║    ██║    ██████╔╝██║   ██║██║██║     ██║  ██║█████╗  ██████╔╝
-██╔══██║██║    ██║    ██╔══██╗██║   ██║██║██║     ██║  ██║██╔══╝  ██╔══██╗
-██║  ██║██║    ██║    ██████╔╝╚██████╔╝██║███████╗██████╔╝███████╗██║  ██║
-╚═╝  ╚═╝╚═╝    ╚═╝    ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚══════╝╚═╝  ╚═╝
-```
-
-### I build AI systems that work in production 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=RAG+Pipelines+%7C+LLM+Agents+%7C+Multi-Agent+Systems;Azure+OpenAI+%7C+Python+%7C+Flask+%7C+React;Always+asking%3A+%22How+will+this+fail+in+production%3F%22)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sweedalp&label=Profile%20views&color=0e75b6&style=flat" alt="sweedalp" />
+</p>
 
 ---
 
-## 🧠 What I Do
+### 👩‍💻 About Me
 
-I'm a **2025 CS Engineering graduate** (CGPA: 9.4/10) currently working as an **AI Agent Intern at Lara Tech Consultancy**, building end-to-end AI applications using LLMs, RAG pipelines, and multi-agent systems — deployed with real backends.
+I'm a Computer Science Engineer passionate about building intelligent, production-ready applications. I specialise in **Generative AI**, **RAG pipelines**, and **full-stack development** — with a focus on shipping things that actually work in the real world.
 
-```python
-sweedal = {
-    "currently_building": "AI-powered LMS & Knowledge Intelligence Platform",
-    "stack":              ["LLMs", "RAG", "Agents", "Azure OpenAI", "Python", "Flask", "React"],
-    "instinct":           "How will this fail in production?",
-    "location":           "Mangaluru → Bangalore",
-    "open_to":            "AI Engineer roles"
-}
-```
+- 🔭 Currently building AI agents & GenAI apps at **Lara Tech Consultancy**
+- 💼 Also working as a **Frontend React Developer** at **Emireq** (UAE-based AI FinTech)
+- 🎓 B.E. in Computer Science — **CGPA 9.4 / 10** @ St. Joseph Engineering College, Mangaluru
+- 📫 Reach me at **sweedalpinto97@gmail.com**
 
 ---
 
-## 🚀 Featured Projects
+### 🔗 Connect with Me
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🔍 **[DocMind – RAG Q&A Bot](https://github.com/sweedalp/DocMind-Document-QA-Bot)** | Full RAG pipeline — chunking, embeddings, retrieval, grounded answers with hallucination controls | Azure OpenAI GPT-4.1 · Flask · RAG |
-| 🤖 **[Newspiple Agent](https://github.com/sweedalp/Mewspiple_agent)** | Multi-agent news pipeline with task decomposition across researcher, writer & editor agents | Azure OpenAI · Flask · React |
-| 🧠 **[Customer Bot with Memory](https://github.com/sweedalp/Customer_Bot_With_Memory)** | Context-aware support bot with dynamic memory compression — built around context window constraints | Azure OpenAI GPT-4 · Flask · React |
-| 📊 **[Feedback Triage System](https://github.com/sweedalp/Customer-Feedback-Triage-System)** | GPT-4 classifier with a proper eval pipeline — 94% accuracy, benchmarked vs rule-based NLP | Azure OpenAI GPT-4 · Flask |
-| 👁️ **[AI Image Analyzer](https://github.com/sweedalp/image-analyzer-app)** | GPT-4 Vision app with uncertainty reporting and probabilistic decision-making | Azure OpenAI GPT-4V · Flask |
-| 🎙️ **[Speech-to-Text App](https://github.com/sweedalp/speech-to-text-azure-openai)** | Full-stack transcription app with async audio processing | Azure Whisper · Flask · React · Tailwind |
-
----
-
-## 🏗️ Currently Building
-
-> **LMS & Knowledge Intelligence Platform** @ Lara Tech Capstone
->
-> A system that ingests class recordings, transcripts, and slide decks → transforms them into searchable RAG-based knowledge, AI-generated narrated summaries, and revision assistants.
-> Full pipeline: **data → intelligence → deployed features → real users.**
+<p align="left">
+  <a href="https://linkedin.com/in/sweedal-pinto" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/sweedalpinto" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://sweedalp.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:sweedalpinto97@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-## 💼 Experience
+### 🛠️ Tech Stack
 
-- 🤖 **AI Agent Intern** — Lara Tech Consultancy *(Dec 2025 – Present)*
-- ⚛️ **Frontend React Developer (Part-time)** — Emireq, UAE-based AI FinTech *(Dec 2025 – Present)*
-- 🏢 **System Engineer Intern** — Infosys, Mysore *(Feb – Jul 2025)*
-- 📊 **Machine Learning Intern** — Vodafone Intelligent Solutions (VOIS) *(Oct – Dec 2023)*
+**AI / ML**
+
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Databases & Cloud**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 Featured Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Azure](https://img.shields.io/badge/Azure_OpenAI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+| Project | Stack | Highlights |
+|--------|-------|------------|
+| **LMS & Knowledge Intelligence Platform** | Python, Flask, Azure OpenAI, RAG, React | AI-powered learning platform — ingests recordings & slides, enables RAG-based Q&A |
+| **DocMind – RAG Document Q&A Bot** | Python, Flask, Azure OpenAI GPT-4.1 | Enterprise doc Q&A with hallucination-minimised retrieval & confidence signals |
+| **Newspiple – Multi-Agent News Pipeline** | Python, Flask, Azure OpenAI, React | Multi-agent orchestration (researcher → writer → editor) built from scratch |
+| **Customer Feedback Triage System** | Python, Flask, GPT-4 | 94% accuracy AI classifier; GPT-4 vs rule-based NLP comparison |
+| **Kidz School of Music** | ASP.NET Core, Angular, MS SQL Server | Role-based music learning platform built in an Agile team |
 
 ---
 
-## 📈 GitHub Stats
+### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sweedalp&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sweedalp&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sweedalp&show_icons=true&theme=default&hide_border=true" alt="Sweedal's GitHub stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sweedalp&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sweedalp&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 📬 Let's Connect
+### 🏆 Certifications
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sweedal-pinto-56a8ab298)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sweedalp.github.io/SweedalPinto1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sweedalpinto97@gmail.com)
-
-</div>
-
-<div align="center">
-<sub>⚡ I don't wait for permission. I build, ship, break, and fix — fast.</sub>
-</div>
+- 🎓 Java and Python Programming — **Infosys Springboard**
+- 🎓 Communication in the 21st Century Workplace — **University of California (Coursera)**
+- 🎓 Generative AI — **Skillible**
